@@ -1,5 +1,5 @@
 public class Main {
-
+//hello Yu Xuan
     public static void main(String[] args) {
         LoanManager m1 = new LoanManager();
         m1.addLoan("Alice Betsy", 10, 0.1);
