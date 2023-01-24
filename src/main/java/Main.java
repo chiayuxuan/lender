@@ -1,5 +1,4 @@
 public class Main {
-    //Hello Yu Xuan
 
     public static void main(String[] args) {
         LoanManager m1 = new LoanManager();
